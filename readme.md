@@ -28,3 +28,5 @@ Each section contains its own guide to the documents within.
 
 ## Share Your Learnings
 We hope that you learn from our documents and experiment with your own variations of our playbooks. We would love for you to share your learnings with us - feel free to fork this repository and make pull requests with new Playbooks of your own.
+
+Unless otherwise noted, all content in this repository is shared under [Creative Commons Attribution - ShareAlike](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/license.md). That means you can share and remix it as long as you link back to us and keep the same license.
