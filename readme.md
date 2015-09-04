@@ -2,7 +2,11 @@
 
 FactoryX is a bold experiment to revise the nature of companies themselves and re-invent entrepreneurship from the ground up. We are trying myriad approaches and want to share what we've learned. Our home is that others will find our methods and materials useful and share what they've learned, in turn.
 
-This repository contains Legal Documents, Playbooks (Strategies, Tactics, Processes), and Technology that are key to how we work.
+This repository information and tools that critical to our operations. We've organized them into:
+
+* [Playbooks (Strategies, Tactics, Processes)](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks)
+* [Technology](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Technology)
+* [Legal Documents](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Legal%20Documents)
 
 ## About FactoryX
 Two things that differentiate FactoryX are how we make companies and how we partner with collaborators.
@@ -16,9 +20,9 @@ We use performance-base-equity to compensate our collaborators. This allows us t
 ## Our Operating System
 We've organized our learnings and tools into three broad categories:
 
-* Legal Documents
-* Playbooks (Strategies, Tactics, Processes)
-* Technology (Our product stack)
+* [Playbooks (Strategies, Tactics, Processes)](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks)
+* [Technology](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Technology)
+* [Legal Documents](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Legal%20Documents)
 
 Each section contains its own guide to the documents within.
 
