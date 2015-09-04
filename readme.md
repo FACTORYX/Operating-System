@@ -1,3 +1,26 @@
 # FactoryX Operating System
 
-FactoryX is a bold experiment to revise the nature of companies themselves and re-invent entrepreneurship from the ground up.
+FactoryX is a bold experiment to revise the nature of companies themselves and re-invent entrepreneurship from the ground up. We are trying myriad approaches and want to share what we've learned. Our home is that others will find our methods and materials useful and share what they've learned, in turn.
+
+This repository contains Legal Documents, Playbooks (Strategies, Tactics, Processes), and Technology that are key to how we work.
+
+## About FactoryX
+Two things that differentiate FactoryX are how we make companies and how we partner with collaborators.
+
+### Making Companies
+We aim to create a new company every ten weeks. This involves a regimen of rapid prototyping in which we test the product with users twice per week. Our goal is to quickly build and validate the product, understand distribution channels, and reach early revenue. Then we recruit an executive team, help them raise funds and spin out the new company. You can learn more about our process in the Playbooks section.
+
+### Collaborating with Makers
+We use performance-base-equity to compensate our collaborators. This allows us to carve out small projects and work with amazing makers whom might not be able to join us full time. Performace-based-equity lets our collaborators share in upside while allowing us to conserve capital.
+
+## Our Operating System
+We've organized our learnings and tools into three broad categories:
+
+* Legal Documents
+* Playbooks (Strategies, Tactics, Processes)
+* Technology (Our product stack)
+
+Each section contains its own guide to the documents within.
+
+## Share Your Learnings
+We hope that you learn from our documents and experiment with your own variations of our playbooks. We would love for you to share your learnings with us - feel free to fork this repository and make pull requests with new Playbooks of your own.
