@@ -2,11 +2,11 @@
 
 Playbooks are the strategies, tactics, and processes we use to build companies. We've organized the content by functional area:
 
-* Product / Development
-* User Testing
-* Marketing, Monetization, and Distribution
-* Talent
-* Culture
+* [Product / Development](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks/Product%20Development)
+* [User Testing](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks/User%20Testing)
+* [Marketing, Monetization, and Distribution](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks/Marketing%2C%20Monetization%2C%20Distribution)
+* [Talent](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks/Talent)
+* [Culture](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks/Culture)
 
 ## The Timeline
 FactoryX rapidly creates new companies through several overlapping cycles.
