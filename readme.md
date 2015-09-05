@@ -4,9 +4,9 @@ FactoryX is a bold experiment to revise the nature of companies themselves and r
 
 This repository information and tools that critical to our operations. We've organized them into:
 
-* [Playbooks (Strategies, Tactics, Processes)](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks)
-* [Technology](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Technology)
-* [Legal Documents](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Legal%20Documents)
+* [Playbooks (Strategies, Tactics, Processes)](./Playbooks)
+* [Technology](./Technology)
+* [Legal Documents](./Legal%20Documents)
 
 ## About FactoryX
 Two things that differentiate FactoryX are how we make companies and how we partner with collaborators.
@@ -20,13 +20,13 @@ We use performance-base-equity to compensate our collaborators. This allows us t
 ## Our Operating System
 We've organized our learnings and tools into three broad categories:
 
-* [Playbooks (Strategies, Tactics, Processes)](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Playbooks)
-* [Technology](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Technology)
-* [Legal Documents](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/Legal%20Documents)
+* [Playbooks (Strategies, Tactics, Processes)](./Playbooks)
+* [Technology](./Technology)
+* [Legal Documents](./Legal%20Documents)
 
 Each section contains its own guide to the documents within.
 
 ## Share Your Learnings
 We hope that you learn from our documents and experiment with your own variations of our playbooks. We would love for you to share your learnings with us - feel free to fork this repository and make pull requests with new Playbooks of your own.
 
-Unless otherwise noted, all content in this repository is shared under [Creative Commons Attribution - ShareAlike](https://github.com/FACTORYX/FactoryX-Operating-System/tree/master/license.md). That means you can share and remix it as long as you link back to us and keep the same license.
+Unless otherwise noted, all content in this repository is shared under [Creative Commons Attribution - ShareAlike](./license.md). That means you can share and remix it as long as you link back to us and keep the same license.
