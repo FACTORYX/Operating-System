@@ -22,9 +22,7 @@
 
 1. **Minimize Capital Requirements / Dilution** – We seek phenomenal capital efficiency as understood by how much learning and de-risking we are able to achieve per dollar and per hour. By striving to be the world’s best team at de-risking new ideas, our projects become uniquely good investments that limit dilution to both investors and our tem.
 
-
-
- 2. **Gravitate toward sustainably Cash-Flow-Positive** – A business must create more value than it costs to create that value.  We seek to find pathways toward a cash-flow positive nucleus in both our businesses and the operation of our house(s).
+2. **Gravitate toward sustainably Cash-Flow-Positive** – A business must create more value than it costs to create that value.  We seek to find pathways toward a cash-flow positive nucleus in both our businesses and the operation of our house(s).
 
 3. **Incentivize creators to be their best** – Each house seeks to launch a series of companies in which developers/designers can earn performance-based equity.  The performance-based equity pool and task allotments decided by the leadership team.  Including, but not expressly limited to the CEO and hacker house development lead. 
 
